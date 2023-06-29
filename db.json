@@ -1,0 +1,22 @@
+[
+    {
+        "string":"elzero",
+    "number":100, 
+    "object":{
+        "eg":"giza",
+        "ksa":"read"
+    },
+    "array":["html","css","javscript"],
+    "boolean":true
+    },
+    {
+        "string":"elzero",
+    "number":100, 
+    "object":{
+        "eg":"giza",
+        "ksa":"read"
+    },
+    "array":["html","css","javscript"],
+    "boolean":true
+    }
+]
